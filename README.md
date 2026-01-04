@@ -1,2 +1,20 @@
-# site-toolkit
-site-toolkit
+# Public Website Reference
+
+This repository provides public reference information and access links
+for an external website.
+
+## Official Website
+https://vlxx.ltd
+
+## Overview
+The website contains publicly accessible pages, documentation,
+and related resources. This repository is used for reference and access.
+
+## Available Pages
+- Homepage: https://vlxx.ltd
+
+## Notes
+All content is publicly available through the official website.
+
+## License
+MIT
